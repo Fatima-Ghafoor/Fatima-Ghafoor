@@ -7,40 +7,13 @@ My core area is Android Development using Java, Web Development using C# & ASP.N
 Alongside development, I have a strong command of design. Over the years, I’ve worked on brand identities, websites, and posters creating visuals that align with each project’s tone and purpose.
 
 **NETWORKING PROFILES:**
-<a href="https://www.linkedin.com/in/fatimaghafoor/" target="_blank">
-  <button style="cursor: pointer"> LinkedIn </button>
-</a>
-<span> | </span>
-<a href="https://x.com/FatimaGhafoor_1" target="_blank">
-  <button style="cursor: pointer"> X </button>
-</a>
+[LinkedIn](https://www.linkedin.com/in/fatimaghafoor/) | [X](https://x.com/FatimaGhafoor_1) | [Email](mailto:fatimaghafoor.work@gmail.com)
 
 **DEVELOPER PORTFOLIOS:**
-<a href="https://www.hackerrank.com/profile/FatimaGhafoor" target="_blank">
-  <button style="cursor: pointer"> HackerRank </button>
-</a>
-<span> | </span>
-<a href="https://leetcode.com/u/FatimaGhafoor/" target="_blank">
-  <button style="cursor: pointer"> LeetCode </button>
-</a>
-<span> | </span>
-<a href="https://stackoverflow.com/users/30996671/fatima-ghafoor" target="_blank">
-  <button style="cursor: pointer"> Stack Overflow </button>
-</a>
+[HackerRank](https://www.hackerrank.com/profile/FatimaGhafoor) | [LeetCode](https://leetcode.com/u/FatimaGhafoor/) | [Stack Overflow](https://stackoverflow.com/users/30996671/fatima-ghafoor)
 
 **DESIGNER PORTFOLIOS:**
-<a href="https://www.behance.net/fatimaghafoor1" target="_blank">
-  <button style="cursor: pointer"> Behance </button>
-</a>
-<span> | </span>
-<a href="https://dribbble.com/FatimaGhafoor" target="_blank">
-  <button style="cursor: pointer"> Dribbble </button>
-</a>
-<span> | </span>
-<a href="https://www.instagram.com/fatimaghafoor_official/" target="_blank">
-  <button style="cursor: pointer"> Instagram </button>
-</a>
-
+[Behance](https://www.behance.net/fatimaghafoor1) | [Dribbble](https://dribbble.com/FatimaGhafoor) | [Instagram](https://www.instagram.com/fatimaghafoor_official/)
 
 
 <!--

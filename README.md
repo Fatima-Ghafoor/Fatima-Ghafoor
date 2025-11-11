@@ -6,23 +6,41 @@ My core area is Android Development using Java, Web Development using C# & ASP.N
 
 Alongside development, I have a strong command of design. Over the years, I’ve worked on brand identities, websites, and posters creating visuals that align with each project’s tone and purpose.
 
-#Networking Profiles:
-
+**NETWORKING PROFILES:**
 <a href="https://www.linkedin.com/in/fatimaghafoor/" target="_blank">
   <button style="cursor: pointer"> LinkedIn </button>
-</a> |
+</a>
+<p> | </p>
 <a href="https://x.com/FatimaGhafoor_1" target="_blank">
   <button style="cursor: pointer"> X </button>
 </a>
 
-#Developer Portfolios:
-
+**DEVELOPER PORTFOLIOS:**
 <a href="https://www.hackerrank.com/profile/FatimaGhafoor" target="_blank">
   <button style="cursor: pointer"> HackerRank </button>
-</a> |
+</a>
+<p> | </p>
 <a href="https://leetcode.com/u/FatimaGhafoor/" target="_blank">
   <button style="cursor: pointer"> LeetCode </button>
 </a>
+<p> | </p>
+<a href="https://stackoverflow.com/users/30996671/fatima-ghafoor" target="_blank">
+  <button style="cursor: pointer"> Stack Overflow </button>
+</a>
+
+**DESIGNER PORTFOLIOS:**
+<a href="https://www.behance.net/fatimaghafoor1" target="_blank">
+  <button style="cursor: pointer"> Behance </button>
+</a>
+<p> | </p>
+<a href="https://dribbble.com/FatimaGhafoor" target="_blank">
+  <button style="cursor: pointer"> Dribbble </button>
+</a>
+<p> | </p>
+<a href="https://www.instagram.com/fatimaghafoor_official/" target="_blank">
+  <button style="cursor: pointer"> Instagram </button>
+</a>
+
 
 
 <!--

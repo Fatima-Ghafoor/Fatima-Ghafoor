@@ -1,10 +1,8 @@
 ## Hi there, I am Fatima Ghafoor! 👋
 
-I’m a Software Engineer currently working as a Freelancer on Freelancer.com and Fiverr. My work spans both creative and technical sides, allowing me to bring a complete approach to projects.
+I’m a Designer and Brand Strategist with a solid background in Software Engineering. I create impactful brand identities, visuals, and digital experiences that solve real problems and help businesses connect with their audience.
 
-My core area is Android Development using Java, Web Development using C# & ASP.NET MVC supported by a solid understanding of SQL. I focus on building reliable, well-structured applications with clean code and smooth functionality.
-
-Alongside development, I have a strong command of design. Over the years, I’ve worked on brand identities, websites, and posters creating visuals that align with each project’s tone and purpose.
+Previously focused on Android Development (Java) and Web Development (C# & ASP.NET), I now blend technical knowledge with design to deliver thoughtful, functional, and visually compelling solutions.
 
 **NETWORKING PROFILES:**
 [LinkedIn](https://www.linkedin.com/in/fatimaghafoor/) | [X](https://x.com/FatimaGhafoor_1) | [Email](mailto:fatimaghafoor.work@gmail.com)

@@ -1,8 +1,8 @@
 ## Hi there, I am Fatima Ghafoor! 👋
 
-I’m a Designer and Brand Strategist with a solid background in Software Engineering. I create impactful brand identities, visuals, and digital experiences that solve real problems and help businesses connect with their audience.
+I’m a Designer and Brand Strategist with a solid background in Software Engineering. I create impactful brand identities, visuals, and digital experiences that solve real problems and help brands convert their target audience into customers.
 
-Previously focused on Android Development (Java) and Web Development (C# & ASP.NET), I now blend technical knowledge with design to deliver thoughtful, functional, and visually compelling solutions.
+Previously focused on Web Development (C#, ASP.NET MVC & SQL) and Android Development (Java), I now blend my technical knowledge with creative design to deliver thoughtful, functional, and visually compelling solutions.
 
 **NETWORKING PROFILES:**
 [LinkedIn](https://www.linkedin.com/in/fatimaghafoor/) | [X](https://x.com/FatimaGhafoor_1) | [Email](mailto:fatimaghafoor.work@gmail.com)
